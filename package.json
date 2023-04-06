@@ -42,7 +42,7 @@
     "metro": "^0.73.7",
     "metro-resolver": "^0.73.7"
   },
-  "name": "react_native_jobs",
+  "name": "workout_app",
   "version": "1.0.0",
   "private": true
 }
